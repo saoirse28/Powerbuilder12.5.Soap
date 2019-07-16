@@ -1,0 +1,10 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+ 0 "base.pbt";
+@end;
+@begin Targets
+ 0 "webservice.pbt";
+ 1 "callwebservice.pbt";
+@end;
+DefaultTarget "callwebservice.pbt";
+DefaultRemoteTarget "callwebservice.pbt";
